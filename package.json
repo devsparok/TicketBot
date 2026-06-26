@@ -15,7 +15,7 @@
     "quick.db",
     "sqlite"
   ],
-  "author": "aozdev",
+  "author": "devsparok",
   "license": "MIT",
   "type": "commonjs",
   "dependencies": {
