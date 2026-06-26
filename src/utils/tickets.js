@@ -586,5 +586,3 @@ module.exports = {
   getTicketByChannelId,
   sanitizeChannelName,
 };
-
-
