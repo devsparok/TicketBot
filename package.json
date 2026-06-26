@@ -1,0 +1,26 @@
+{
+  "name": "ticketbot",
+  "version": "1.0.0",
+  "description": "A fully slash-command Discord.js v14 ticket bot with quick.db storage.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "check": "node --check app.js"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "ticket",
+    "support",
+    "quick.db",
+    "sqlite"
+  ],
+  "author": "aozdev",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^12.4.1",
+    "discord.js": "^14.25.1",
+    "quick.db": "^9.1.7"
+  }
+}
